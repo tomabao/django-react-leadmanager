@@ -30,7 +30,10 @@ SECRET_KEY = '$vt1vjn$7@*zsw(=d9)2#w+5s36ovmxjxk()+xy5gkji5^-7^+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'stormy-ridge-96978.herokuapp.com/',
+    '127.0.0.1:8000'
+]
 
 
 # Application definition

@@ -1,5 +1,10 @@
 # leadmanager
 
+## Development
+
+`npm run dev`  
+`python manage.py runserver`
+
 ## Guides
 
 [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)  

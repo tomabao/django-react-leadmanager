@@ -1,9 +1,12 @@
-# leadmanager
+# django-react-leadmanager
+Lead management project
 
 ## Development
-
-`npm run dev`  
-`python manage.py runserver`
+```
+pip install -r requirements.txt
+npm install
+npm run dev
+```
 
 ## Guides
 
